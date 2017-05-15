@@ -17,6 +17,6 @@ TLDLove.exe -s [path of video] -p [path of parameter config file]
 ```shell
 TLDLove.exe -p [path of parameter config file]
 ```
-Attetion
+Attention
 ==
 `do not forget the parameter file(parameters.yml)!`
