@@ -12,11 +12,12 @@ How to use?
 ```shell
 TLDLove.exe -s [path of video] -p [path of parameter config file]
 ```
-  you should mark the target by you mouse at the first frame.<br>
-  you can use custom camera by ignoring the -s parameter:
+or you can use custom camera by ignoring the -s parameter:
 ```shell
 TLDLove.exe -p [path of parameter config file]
 ```
 Attention
 ==
-`do not forget the parameter file(parameters.yml)!`
+* you need to mark the target with your mouse at the first frame.<br>
+* do not forget the parameter file(parameters.yml)!
+
